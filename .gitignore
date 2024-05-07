@@ -24,3 +24,8 @@ hs_err_pid*
 replay_pid*
 /.gradle/
 /kafka-basics/build/
+
+# Gradle
+/.idea/workspace.xml
+/.idea/gradle.xml
+/.idea/
