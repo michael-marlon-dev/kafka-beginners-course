@@ -26,5 +26,5 @@ replay_pid*
 /kafka-basics/build/
 
 # Gradle
-*/.idea/**/gradle.xml
-*/.idea/**/libraries
+/.idea/workspace.xml
+/.idea/gradle.xml
